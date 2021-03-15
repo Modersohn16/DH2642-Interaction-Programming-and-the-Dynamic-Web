@@ -1,0 +1,7 @@
+.debug{border-style: solid; padding:10px;}
+.sidebar{margin:10px;}
+.mainContent{margin:10px; flex:1;}
+button{margin:5px;}
+@media (min-width:300px){
+      .flexParent{display:flex; flex-direction:row; height:100%; margin:10px;}
+}
