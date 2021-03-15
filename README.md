@@ -7,3 +7,10 @@ Course contents:
 - User interfaces, interaction: events, event levels, event propagation, event management.
 - User interfaces, architectures: Model-View-Controller.
 - User interfaces, frameworks: React, Angular, Vue.
+
+After completing the course I am able to:
+- choose appropriate technical platforms or JavaScript frameworks to create useful data persistent interactive web applications or native applications
+- program interactive web applications according to Model-View-Controller or related architectures
+- program systems that read data from, and send data to, web interfaces with good use qualities
+- assess and improve the usability of existing interactive web applications
+- cooperate with others to implement interactive web applications.
